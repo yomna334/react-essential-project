@@ -10,7 +10,7 @@ React.createElement("ul",
 null,
 React.createElement("li",null,"bag"),
 React.createElement("li",null,"purse"),
-React.createElement("li",null,"backbag"),
+
 ),
   document.getElementById('root')
 
